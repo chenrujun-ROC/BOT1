@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # bot's settings file
+settings.json
