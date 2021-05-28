@@ -1,7 +1,9 @@
 {	
     "blacklist": {	
       "guildID": [],
-      "channelID": [],
+      "一般_channel": [],
+      "welcome_channel": [],
+      "leave_channel": [],
       "userID": []
     },
     "moderation": {
@@ -14,5 +16,5 @@
             "delete message": true
         }
     },
-    "token":"ODQ2NzYzMjQwODc1ODg0NjE1.YK0PuA.ilF2hlQinBA8G3I8cCB3uwPsJPs"
+    "token":""
   }
